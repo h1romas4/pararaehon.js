@@ -4,13 +4,12 @@ Displays an illustrated book-like web page using HTML5 canvas.
 
 Demo
 -------------
-[pararaehon.com](http://pararaehon.com/)
+<a href="http://pararaehon.com" target="_blank"><img src="http://pararaehon.com/github/maho01.png" alt="Screenshot" /></a>
+
+[komomo](http://cat-speak.net/) illustration
 
 Screenshot
 -------------
-
-<img src="http://pararaehon.com/github/maho01.png" alt="Screenshot" />
-
 <img src="http://pararaehon.com/github/maho02.png" alt="Screenshot" />
 
 <img src="http://pararaehon.com/github/maho03.png" alt="Screenshot" />
